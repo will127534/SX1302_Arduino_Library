@@ -1,2 +1,3 @@
-# SX1302_Arduino_Library
-A ported Arduino Library for SX1302 from SX1302 HAL
+## Arduino library template
+
+Library template for arduino based on https://github.com/arduino/Arduino/wiki/Library-Manager-FAQ
